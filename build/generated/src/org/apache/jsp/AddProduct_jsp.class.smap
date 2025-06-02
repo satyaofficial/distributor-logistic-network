@@ -1,0 +1,19 @@
+SMAP
+AddProduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddProduct.jsp
+AddProduct.jsp
++ 1 DistributorHome.jsp
+DistributorHome.jsp
+*L
+5,20:49
+5#1,6:69
+11:75,3
+12,64:78
+76,7:143
+82,25:150
+24#0,74:175
+97,58:249
+*E
